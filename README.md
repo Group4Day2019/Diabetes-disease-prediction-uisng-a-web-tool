@@ -29,3 +29,18 @@ The dataset consist of total 15 features and one target variable named class.
 16. Obesity: Yes/ No
 
 Class: Positive / Negative
+
+
+Relevant Papers:
+
+Likelihood Prediction of Diabetes at Early Stage Using Data Mining Techniques
+[Web Link]
+Authors and affiliations
+M. M. Faniqul IslamEmail
+Rahatara Ferdousi
+Sadikur Rahman
+Humayra Yasmin Bushra
+
+Citation Request:
+Islam, MM Faniqul, et al. 'Likelihood prediction of diabetes at early stage using data mining techniques.' Computer Vision and Machine Intelligence in Medical Image Analysis. Springer, Singapore, 2020. 113-125.
+Islam, MM Faniqul, et al. 'Likelihood prediction of diabetes at early stage using data mining techniques.' Computer Vision and Machine Intelligence in Medical Image Analysis. Springer, Singapore, 2020. 113-125
