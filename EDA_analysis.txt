@@ -1,0 +1,12 @@
+Observations from EDA.
+
+--People with diabetes disease are 320, about 62% and people without diabetes are 200, about 38%.
+--People with ages 45 and below don’t have diabetes disease, people above 45 years of age have diabetes.
+--The top 3 features people have are ‘Polydispia’ being the highest, followed by ‘Polyuria’, and ‘sudden weight loss’.
+--In all features, age has a high variance.
+--Very few people have obesity, irritability, genital thrush.
+--People with itching, delayed healing, alopecia, are less.
+--most females are positive with diabetes than males.
+--For polyuria, most patients do not have, a few are positive.
+--For Polydipsia, polyphagia and sudden weight loss, most people are negative.
+--For Weakness, most people are positive with weakness and rest or others are negative without weakness. 
