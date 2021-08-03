@@ -4,7 +4,7 @@ import numpy as np
 import pickle
 
 def pima():
-    pickle_in = open('LR.pkl', 'rb')
+    pickle_in = open('SVM_model.pkl', 'rb')
     classifier = pickle.load(pickle_in)
 
     st.markdown("## Pima Indian Diabetes Disease preiction.")
@@ -89,7 +89,7 @@ def app():
 
         st.write(prediction_df)
 
-        with open("RF.pkl", 'rb') as pfile:  
+        with open("ETC.pkl", 'rb') as pfile:  
             model_loaded=pickle.load(pfile)
         y_predicted=model_loaded.predict(prediction_df)
 
