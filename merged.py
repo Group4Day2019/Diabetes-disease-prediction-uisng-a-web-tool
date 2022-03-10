@@ -17,7 +17,7 @@ def pima():
     skin = st.number_input("Triceps skin fold thickness (mm):", min_value=5, max_value=80, step=1)
     insulin = st.number_input("2-Hour serum insulin (mu U/ml):", min_value=0, max_value=1000, step=1)
     bmi = st.number_input("Body mass index (weight in kg/(height in m)^2):", min_value=10, max_value=100, step=1)
-    dpf = st.number_input("Diabetes Pedigree Function:", min_value=0, max_value=2.5, step=1)
+    dpf = st.number_input("Diabetes Pedigree Function:", min_value=0.0, max_value=2.5, step=1.0)
     age = st.number_input("Age:", min_value=10, max_value=120, step=1)
     submit = st.button('Predict')
 
