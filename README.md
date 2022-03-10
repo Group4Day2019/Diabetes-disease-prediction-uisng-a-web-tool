@@ -1,6 +1,8 @@
 # ML_Internship2021
 Personal machine learning project on building a Diabetes disease prediction model with implementation of a web application.
 
+web app: https://share.streamlit.io/group4day2019/ml_internship2021/main/merged.py
+
 #  Early Stage Diabetes Prediction.
 
 About Data
